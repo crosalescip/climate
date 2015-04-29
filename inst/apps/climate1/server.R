@@ -26,7 +26,7 @@
 library(stringr)
 library(climatol)
 library(ClimClass)
-source("E:/Documents and Settings/user/My Documents/test/wl/wl.R")
+#source("E:/Documents and Settings/user/My Documents/test/wl/wl.R")
 
 months = c("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec")
 
